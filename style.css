@@ -140,6 +140,11 @@ footer{
   width:100%;
   bottom:0px;
   margin: 0;
+  text-shadow: 1px, 1px, 5px, black;
+}
+
+footer p{
+  text-shadow: 1px 1px 5px black;
 }
 
 h1 {
@@ -165,6 +170,12 @@ p.about {
   color: white;
   font-size: 24px;
   text-align: right;
+}
+
+p.misc {
+  color: white;
+  font-size: 24px;
+  text-align: center;
 }
 
 
